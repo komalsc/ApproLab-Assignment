@@ -90,8 +90,9 @@
     }
     
     .input, .btn, .btngoogle, .btngit, .btnfacebook {
-      width: 100%;
+      width: 80%;
       margin: 0.5rem 0;
     }
+  
   }
   
