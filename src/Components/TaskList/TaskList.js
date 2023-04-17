@@ -23,6 +23,10 @@ const TaskList = () => {
     {
       todo: 'make your  document',
       complete: false
+    },
+    {
+      todo: 'make your  plan',
+      complete: false
     }
   ])
 
